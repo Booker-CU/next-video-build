@@ -2,9 +2,11 @@
 
 ## Demo Project
 
+This is a simple streaming channel app.
+
+It uses tools from `Livepeer`, `Push Notifications`, and `NFTPort`.
 
 
-## Available Scripts
 
 
 
