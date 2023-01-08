@@ -1,0 +1,126 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.My-layout {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 183px 64px 32px 67px;
+    background-color: rgb(0, 0, 0);
+}
+
+.flexColumn {
+  width: 581px;
+  height: 657px;
+  position: relative;
+  gap: 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 76px 73px 76px 0px;
+}
+.logo {
+  width: 568px;
+  height: 359px;
+  left: 0px;
+  top: 0px;
+  position: relative;
+  border-width: 1px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: rgba(34, 30, 30, 0.1);
+  overflow: hidden;
+}
+.grimetv {
+  width: 563px;
+  height: 228px;
+  position: relative;
+  align-self: flex-end;
+  color: #ffffff;
+  font-size: 96px;
+  font-family: Inter;
+}
+.watch {
+  width: 570px;
+  height: 48px;
+  position: relative;
+}
+.image1 {
+  width: 278px;
+  height: 300px;
+  align-self: flex-end;
+  padding: 100px;
+}
+.px_width {
+  width: 100px;
+  background-color: red;
+  color: white;
+  border: 1px solid black;
+}
+
+.Wallet-position {
+  background-color: #000000;
+  min-height: 2vh;
+  /* position:absolute; */
+  /* right:0; */
+  /* width: 100px; */
+  /* display: flex;
+  flex-direction: column; */
+  /* align-items: right; */
+  /* justify-content: center; */
+}
+
+.ipfs-position {
+  background-color: #282c34;
+  min-height: 35vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.liveplayer-screan {
+  width: 400px;
+  height: 400px;
+  
+}
+
