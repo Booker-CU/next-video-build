@@ -1,4 +1,4 @@
-### `Demo Project for the Next Video Build Hackathon`
+### `Next Video Build Hackathon Demo` Demo Project
 
 
 
