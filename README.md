@@ -2,7 +2,7 @@
 
 ## Demo Project
 <br><br>
-Link to video demonstration.<br>
+# Link to video demonstration.<br>
 https://www.loom.com/share/d9550ed4b0db48a4b5803ae1aabcf035
 <br><br>
 This is a simple streaming channel app.
