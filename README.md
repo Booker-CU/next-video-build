@@ -8,17 +8,19 @@ It uses tools from `Livepeer`, `Push Notifications`, and `NFTPort`.
 ##
 
 `Livepeer`
-<br>
+<br><br>
 In the project I connect Streamlabs OBS to Livepeer and used the Livepeer `Player` to stream to my app landing page.
 
 ##
 
 `Push Notifications`
+<br><br>
 First I created a channel on https://staging.push.org and then used the PushAPI to send notifications to the channel.
 
 ##
 
 `NFTPort`
+<br><br>
 I used NFTPort to pull down my most recent uploads to IPFS using the NFTPortAPI.
 
 
