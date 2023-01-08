@@ -1,6 +1,6 @@
 # Next Video Build Hackathon 
 
-## Demo Project
+### Demo Project
 
 This is a simple streaming channel app.
 
