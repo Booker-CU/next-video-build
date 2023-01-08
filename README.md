@@ -8,6 +8,7 @@ It uses tools from `Livepeer`, `Push Notifications`, and `NFTPort`.
 ##
 
 `Livepeer`
+<b>
 In the project I connect Streamlabs OBS to Livepeer and used the Livepeer `Player` to stream to my app landing page.
 
 ##
