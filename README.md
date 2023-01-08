@@ -31,5 +31,6 @@ I used NFTPort to pull down my most recent uploads to IPFS using the NFTPortAPI.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project also uses Rainbow/Wagmi, Mui (Styling).
 
 
