@@ -29,7 +29,7 @@ const options = {
   method: 'GET',
   headers: {
     accept: 'application/json',
-    Authorization: 'f2ea9f69-65e4-4ece-beb8-a165328bac2a' // Create your own account on NFTPort
+    Authorization: 'Use Your Own NFTPort Account' // Create your own account on NFTPort
   }
 };
 
@@ -72,7 +72,7 @@ function App() {
           cta: '',
           img: ''
         },
-        channel: 'eip155:5:0xe4FFaE0FD431f590498c8AaF9253aF41320d77A5', // your channel address
+        channel: 'eip155:5:"Use Your Own Channel Address"', // your channel address
         env: 'staging'
       });
 
