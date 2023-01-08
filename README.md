@@ -18,7 +18,7 @@ In the project I connect Streamlabs OBS to Livepeer and used the Livepeer `Playe
 
 ## Push Notifications
 <br><br>
-First I created a channel on https://staging.push.org and then used the PushAPI to send notifications to the channel.
+First I created a channel on https://staging.push.org and then used the PushAPI to send notifications to the channel.<br>
 (To set up a channel you will need to use 50dai. This was done on the Goerli Network originally and also created on Polygon/Mumbia)
 
 ##
